@@ -1,0 +1,15 @@
+body {
+    height: max-content;
+    width: 100%;
+    background: grey;
+}
+question {
+    font-family: cursive;
+    height: 10px;
+    width: 10px;
+}
+Answer {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 10px;
+    width: 10px;
+}
